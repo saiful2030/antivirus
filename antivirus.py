@@ -6,7 +6,7 @@ import queue
 import flet as ft
 
 # Constants
-API_KEY = "8d660b105c3f1a824a7664f95319689550dde6a2046c6be9fa603633c7dfddc6"
+API_KEY = "API_KEY VIRUSTOTAL"
 FILE_EXTENSIONS = ['.exe', '.dll', '.zip', '.rar', '.msi']
 THREAD_COUNT = 10
 
